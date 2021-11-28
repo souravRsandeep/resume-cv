@@ -60,12 +60,12 @@ by implementing the project successfully.
 ##### Extra – Curricular Activities
 - Football.
 - Worked as volunteer for a NGO.
+-  gaming.
 
 
 ### AWARDS & ACHEIVEMENTS
 -  Won prizes sports competitions in school.
 -  played for football team in college.
--  came 3rd in hackathon.
 
 ### PERSONAL DETAILS
 
@@ -81,4 +81,4 @@ Permanent Address :#137,Belathur main road, Belathur bus stop, Bamgalore
 
 Languages Known :English,Kannada,Tamil,Hindi
 
-Hobbies :Football,Documentaries,Trekking
+Hobbies :Football,Watching documentaries,Trekking
