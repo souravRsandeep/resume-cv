@@ -37,12 +37,12 @@ Learning Outcome: Got to learn the concepts of HTML ,CSS, JAVASCRIPT properly
 by implementing the project successfully.
 
 -  Project 2
-Title:Website For Quient Technical and Placement Trainings.
-Description: This Project was aimed at creating a cutting edge website for the client,as apart of 
-the project , I designed Functional Web pages , Backend to collect , store ,sort data .
-Tools used: HTML , CSS , JAVASCRIPT for front end development, DJANGO for backend and 
-database.
-Learning Outcome: Got to learn the concepts of HTML ,CSS, JAVASCRIPT and DJANGO properly 
+Title:Organ donation management system.
+Description: This project was made for hospitals to provide necessary organs to patients, 
+This web applications increases speed of organ donation, and reduces patient waiting time.
+Tools used:  Python for front end development, DJANGO for backend and 
+MYsql database.
+Learning Outcome: Got to learn the concepts of databases and python with DJANGO properly 
 by implementing the project successfully.
 
 - Project 3
@@ -70,9 +70,15 @@ by implementing the project successfully.
 ### PERSONAL DETAILS
 
 Date of Birth :   27/09/1999
+
 Gender :M
+
 Nationality :Indian
+
 Marital Status :Single
+
 Permanent Address :#137,Belathur main road, Belathur bus stop, Bamgalore
+
 Languages Known :English,Kannada,Tamil,Hindi
+
 Hobbies :Football,Documentaries,Trekking
